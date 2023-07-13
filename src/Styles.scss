@@ -1,0 +1,17 @@
+.edit{
+    margin-left: 15px;
+}
+
+.hover{
+    &:hover {
+        cursor: pointer;
+        opacity: 0.9;
+}
+}
+
+.height{
+    height: 40px;
+}
+
+
+
